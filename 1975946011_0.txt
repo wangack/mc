@@ -1,0 +1,12 @@
+[0:00:01] Nightjar: !notlive
+[0:00:01] JaffaMod: This isn't live, it's YogsCinema, a place where chat can vote on and watch Yogscast Youtube videos together! Use !howtovote in chat and ping a mod on the Yogs discord if cinema is misbehaving! Check out our regular schedule at schedule.yogscast.com or twitter for stream announcements!
+[0:00:30] JaffaMod: Could not update title.
+[0:00:41] Nightjar: !title This isn't live, it's YogsCinema, where chat can vote on and watch Yogscast Youtube videos! Use !howtovote in chat and ping a mod on the Yogs discord if cinema breaks!
+[0:00:42] JaffaMod: Could not update title.
+[0:05:40] klongstaff123: Squid1 Squid2 Squid3 Squid2 Squid4
+[0:06:24] Electromagneticpulses: !howtovote
+[0:06:24] JaffaMod: YogsCinema 2.0 is here! To vote use the new Twitch extension. On PC you will find it below the stream: https://imgur.com/a/VGQG8N1 and on some mobile devices you'll see a small box above chat called 'YogsCinema'
+[0:09:15] 39SaltyCookies: This isn't live, it's YogsCinema, where chat can vote on and watch Yogscast Youtube videos! Use !howtovote in chat and ping a mod on the Yogs discord if cinema breaks!
+[0:09:19] JaffaMod: While we're offline, check out: Lolipopgi playing Stranded: Alien Dawn: New Robots & Guardians DLC, new colony! -- (also new !youtube video finally) over at twitch.tv/lolipopgi !
+[0:13:26] JaffaMod: We're now going for an ad break that will last up to 5 minutes. Make sure you subscribe ( twitch.tv/yogscast/subscribe ) to not see them anymore!
+[0:36:45] JaffaMod: While we're offline, check out: Pedguin playing Lethal Company: 🔴 The most lethal company 🔴 over at twitch.tv/pedguin !

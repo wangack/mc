@@ -1,0 +1,31 @@
+[0:00:07] Nightjar: !notlive
+[0:00:07] JaffaMod: This isn't live, it's YogsCinema, a place where chat can vote on and watch Yogscast Youtube videos together! Use !howtovote in chat to learn how to vote, and ping a mod on the Yogs discord if cinema is misbehaving. Check out our regular schedule at schedule.yogscast.com!
+[0:00:40] honeybutterbread: Hello!
+[0:00:44] honeybutterbread: brionyBunkies
+[0:01:14] SaltCoatedEgg: Cheergi
+[0:05:33] nolo418: OSFrog
+[0:09:11] Syddels: 2 raiders from Syddels have joined! 
+[0:10:20] bojadoo: yogL1 yogL2 yogS1 yogS2
+[0:10:22] JaffaMod: We're now going for an ad break that will last up to 5 minutes. Make sure you subscribe ( twitch.tv/yogscast/subscribe ) to not see them anymore!
+[0:10:30] bojadoo: yogL3 yogL4 yogS3 yogS4
+[0:11:39] bojadoo: yogL1 yogL2 yogS1 yogS2
+[0:11:44] bojadoo: yogL3 yogL4 yogS3 yogS4
+[0:11:44] JaffaMod: Want to support the streamer and the Yogscast? 75% of donations go directly to the streamer! https://twitch.streamlabs.com/yogscast
+[0:11:56] bojadoo: HAH
+[0:12:50] bojadoo: LUL defnitely lewis
+[0:14:15] JaffaMod: While we're offline, check out: Daltos playing Sid Meier's Civilization V: DASTARDLY DANES | NQ Multiplayer over at twitch.tv/daltos !
+[0:27:50] Slimjimmy22: !vote
+[0:28:13] Slimjimmy22: !howtovote
+[0:28:14] JaffaMod: YogsCinema 2.0 is here! To vote use the new Twitch extension. On PC you will find it below the stream: https://imgur.com/a/VGQG8N1 and on some mobile devices you'll see a small box above chat called 'YogsCinema'
+[0:29:14] JaffaMod: While we're offline, check out: Pedguin playing Project Zomboid: DAY 2 - COMMUNITY PROJECT ZOMBOID - !pzMods over at twitch.tv/pedguin !
+[0:30:16] nolo418: JaffaMod must always have the newest message
+[0:41:42] oskiteleo: !vod
+[0:41:55] oskiteleo: !video
+[0:41:55] JaffaMod: If you're experiencing stuttering or delays in the stream, try pausing/playing or refreshing. Lowering the stream quality and/or turning off low latency can also help COGGERS
+[0:42:59] oskiteleo: !commands
+[0:43:00] JaffaMod: Want to support the streamer and the Yogscast? 75% of donations go directly to the streamer! https://twitch.streamlabs.com/yogscast
+[0:43:00] JaffaMod: Thanks to PCSpecialist for supporting the channel. Powered by the GeForce RTX 4080. Get £30 off your order using the code YOGS https://pcspeciali.st/yogscast
+[0:44:09] oskiteleo: !cinema
+[0:44:15] JaffaMod: While we're offline, check out: Lolipopgi playing Visage: BIRTHDAY/STREAMERSARY SUBATHON! 🎉 3 years of doing what I love! 🎀 Subs extend the stream countdown timer (up to 30 hr) over at twitch.tv/lolipopgi !
+[0:44:53] AdmiralAlkex: @oskiteleo what are you trying to do?
+[0:47:00] oskiteleo: get the current video link, I see the name in the title tho and ik I can search it, just doing more work in my quest of laziness
